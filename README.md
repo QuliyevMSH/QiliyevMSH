@@ -1,4 +1,5 @@
 ![MasterHead](https://cdn.buttercms.com/szRAUQ7tTaurKL95NS9x)
+![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
 <h1 align="center">Hi 👋, I'm Mashallah <3</h1>
 <h3 align="center">Amateur junior frontend developer from Azerbaijan</h3>
 
