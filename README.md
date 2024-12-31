@@ -1,6 +1,12 @@
 ![MasterHead](https://cdn.buttercms.com/szRAUQ7tTaurKL95NS9x)
 ![](https://komarev.com/ghpvc/?username=QuliyevMSH&color=blue)
 <h1 align="center">Hi 👋, I'm Mashallah <3</h1>
+  <div align="center">
+ <a href="https://github.com/CagatayAkkas">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Quliyev+MSH+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+ </a>
+</div>
+  <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
 <h3 align="center">Amateur junior frontend developer from Azerbaijan</h3>
 
 - 🔭 I’m currently working on **React**
